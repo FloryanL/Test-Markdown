@@ -1,10 +1,11 @@
 /*commentaires*/
-/*  font-family: 'Delius';
-    font-family: 'Electrolize'; */
+/*  font-family: 'Crafty Girls';
+    font-family: 'Electrolize';
+    font-family: 'Croissant One'; */
 
 body {
     background-color: #95a5a6;
-    color: white;
+    color: #FFCD00;
     margin: 0;
 }
 h1 {
@@ -12,7 +13,7 @@ h1 {
     top: 40%;
     width: 100%;
     text-align: center;
-    font-family: 'cursive';
+    font-family: 'Croissant One';
     font-size: 100;
 }
 h3 {
@@ -27,25 +28,32 @@ h3 {
     float: left;
     height: 50%;
     width: 30%;
+    margin-left: 1%;
 }
 .scd_text {
     float: left;
     height: 50%;
     width: 30%;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 .third_text {
     float: left;
     height: 50%;
     width: 30%;
+    margin-right: 1%;
 }
 .paragraphe {
     padding: 1%;
     margin-top: 30%;
+    background-color: #5383BD;
 }
 p {
     position: relative;
     width: 100%;
-    text-align: left;
-    font-family: 'Delius';
+    text-align: justify;
+    color: #FFC163;
+    font-family: "Crafty Girls";
+    font-style: italic;
     font-size: 60;
 }

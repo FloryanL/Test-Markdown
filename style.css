@@ -5,8 +5,17 @@
 
 body {
     background-color: #95a5a6;
-    color: #FFCD00;
+    color: #FFC163;
     margin: 0;
+}
+.image {
+    background: url(element/Images/Girl Robot Cyborg Orange Eyes Dark.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;   
+    background-position: center center; 
+    border: 2px solid #FFCD00;
+    height: 100%;
+    width: 100%;
 }
 h1 {
     position: absolute;
